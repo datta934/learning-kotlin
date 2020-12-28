@@ -37,7 +37,7 @@
 ////    return result;
 ////}
 ////
-////fun main(args: Array<String>) {
+////fun hackerrank.main(args: Array<String>) {
 ////    val scan = Scanner(System.`in`)
 ////
 ////    val t = scan.nextLine().trim().toInt()
